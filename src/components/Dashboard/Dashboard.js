@@ -35,7 +35,7 @@ const Dashboard = () => {
           <CardHeader
             sx={{ color: "#D0E7D2", marginBottom: "30px" }}
             avatar={<LocalHospitalIcon sx={{ backgroundColor: "green" }} />}
-            title={<Typography variant="h5">Health care</Typography>}
+            title={<Typography variant="h5">Care-For-U</Typography>}
           />
           <SideNavButton
             title={"Dashboard"}

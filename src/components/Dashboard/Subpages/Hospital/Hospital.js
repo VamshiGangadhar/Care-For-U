@@ -21,34 +21,34 @@ import MoodIcon from "@mui/icons-material/Mood";
 const Hospital = () => {
   const doctors = [
     {
-      Doctor: "Dr. Naga",
+      Doctor: "Dr. Vijay",
       Specialty: "Cardiology",
     },
     {
-      Doctor: "Dr. Anudeep",
+      Doctor: "Dr. Kiran",
       Specialty: "Dermatology",
     },
     {
-      Doctor: "Dr. Naga",
+      Doctor: "Dr. Jaya Ram",
       Specialty: "Cardiology",
     },
     {
-      Doctor: "Dr. Anudeep",
+      Doctor: "Dr. Sri",
       Specialty: "Dermatology",
     },
   ];
   const patients = [
     {
-      Patient: "Siva",
+      Patient: "Sai",
     },
     {
-      Patient: "Jaya",
+      Patient: "Sukumar",
     },
     {
-      Patient: "jay",
+      Patient: "deepak",
     },
     {
-      Patient: "Anil",
+      Patient: "Ajay",
     },
   ];
 
